@@ -1,0 +1,10 @@
+C:\Users\Taylor\source\repos\ClipboardToKeystrokes\ClipboardToKeystrokes\bin\Debug\ClipboardToKeystrokes.exe.config
+C:\Users\Taylor\source\repos\ClipboardToKeystrokes\ClipboardToKeystrokes\bin\Debug\ClipboardToKeystrokes.exe
+C:\Users\Taylor\source\repos\ClipboardToKeystrokes\ClipboardToKeystrokes\bin\Debug\ClipboardToKeystrokes.pdb
+C:\Users\Taylor\source\repos\ClipboardToKeystrokes\ClipboardToKeystrokes\obj\Debug\ClipboardToKeystrokes.csprojAssemblyReference.cache
+C:\Users\Taylor\source\repos\ClipboardToKeystrokes\ClipboardToKeystrokes\obj\Debug\ClipboardToKeystrokes.Form1.resources
+C:\Users\Taylor\source\repos\ClipboardToKeystrokes\ClipboardToKeystrokes\obj\Debug\ClipboardToKeystrokes.Properties.Resources.resources
+C:\Users\Taylor\source\repos\ClipboardToKeystrokes\ClipboardToKeystrokes\obj\Debug\ClipboardToKeystrokes.csproj.GenerateResource.cache
+C:\Users\Taylor\source\repos\ClipboardToKeystrokes\ClipboardToKeystrokes\obj\Debug\ClipboardToKeystrokes.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\source\repos\ClipboardToKeystrokes\ClipboardToKeystrokes\obj\Debug\ClipboardToKeystrokes.exe
+C:\Users\Taylor\source\repos\ClipboardToKeystrokes\ClipboardToKeystrokes\obj\Debug\ClipboardToKeystrokes.pdb
