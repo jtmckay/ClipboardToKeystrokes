@@ -1,5 +1,5 @@
 # ClipboardToKeystrokes
-Take what's in the clipboard and simulate key presses so it is as if it's coming from your keyboard.
+Take what's in the clipboard and simulate key presses as if it's coming from your keyboard.
 
 ![alt text](https://github.com/jtmckay/ClipboardToKeystrokes/blob/master/screenshot.JPG)
 
